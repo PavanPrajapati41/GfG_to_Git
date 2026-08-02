@@ -1,6 +1,6 @@
-# 🚀 GeeksforGeeks Solutions in Java
+# Data Structures & Algorithms in Java
 
-Welcome to my **GeeksforGeeks Solutions** repository!
+Welcome to my **Data Structures & Algorithms in Java Solutions** repository!
 
 This repository contains my solutions to problems solved on **GeeksforGeeks (GFG)** using **Java**.
 
